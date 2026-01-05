@@ -64,7 +64,7 @@ scikit-learn
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/MNIST-CNN-Classifier.git
+git clone https://github.com/ljunior23/MNIST-CNN-Classifier.git
 cd MNIST-CNN-Classifier
 ```
 
@@ -239,14 +239,13 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**George Kumi Acheampong**
+- GitHub: [@ljunior23](https://github.com/ljunior23)
+- Email: kwaleon@umich.edu
 
 ## 🙏 Acknowledgments
 
