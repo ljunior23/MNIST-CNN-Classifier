@@ -1,0 +1,7 @@
+# Project runtime dependencies
+tensorflow
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
